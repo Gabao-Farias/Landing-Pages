@@ -1,0 +1,248 @@
+#page-landing {
+    background-color: var(--color-background-night);
+}
+
+#login-container-background {
+    background: url("../../assets/images/deadlift-bald-mobile.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+#login-container-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 730px;
+    padding: 5%;
+}
+
+#logo {
+    margin-top: 8%;
+}
+
+#logo h1{
+    font-size: 3.2rem;
+    font-weight: 700;
+}
+
+#logo p{
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
+#login-container-content form {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--color-font-red);
+    border-radius: 10px;
+    padding: 1.2rem;
+    background-color: var(--color-background-pure-black-translucent);
+    margin-bottom: 10%;
+    transition: background-color 0.3s;
+}
+
+#login-container-content form:hover {
+    background-color: var(--color-background-pure-black);
+}
+
+.input-block {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-block h2 {
+    font-size: 2rem;
+    text-align: center;
+    margin: 0.4rem;
+}
+
+.input-block h3 {
+    font-size: 1.8rem;
+    font-weight: 300;
+    margin-bottom: 0.4rem;
+}
+
+.input-block .login-input {
+    flex-grow: 1;
+    outline: none;
+    padding: 2%;
+    font-size: 1.5rem;
+    font-weight: 300;
+    border-radius: 0.2rem;
+    border: 1px solid var(--color-background-pure-black);
+    background-color: var(--color-background-night);
+    transition: 0.2s;
+}
+
+.input-block .login-input:hover {
+    border: 1px solid var(--color-font-red);
+}
+
+.input-block + .input-block {
+    margin-top: 1rem;
+}
+
+.login-options {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.login-options a {
+    margin-top: 1rem;
+    border: 1px solid var(--color-font-red);
+    border-radius: 3px;
+    padding: 0.4rem;
+    font-weight: 300;
+    text-align: center;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: var(--color-font-red);
+    transition: 0.2s;
+}
+
+.login-options a:hover{
+    color: var(--color-font-pure-white);
+    border-color: var(--color-font-pure-white);
+}
+
+@media (min-width: 700px) {
+    #login-container-background {
+        background: url("../../assets/images/deadlift-bald.jpg");
+        background-size: cover;
+        background-position: top;
+        background-repeat: no-repeat;
+    }
+
+    #login-container-content {
+        height: 760px;
+    }
+
+    #logo {
+        margin-top: 6%;
+    }
+    
+    #logo h1{
+        font-size: 4.2rem;
+    }
+    
+    #logo p{
+        font-weight: 300;
+        font-size: 2.2rem;
+    }
+
+    #login-container-content form {
+        margin-bottom: 6%;
+        max-width: 40%;
+    }
+
+    .input-block h2 {
+        font-size: 2.5rem;
+        text-align: center;
+        margin: 0.4rem;
+    }
+    
+    .input-block h3 {
+        font-size: 2rem;
+        font-weight: 300;
+        margin-bottom: 0.4rem;
+    }
+
+    .input-block .login-input {
+        font-size: 1.8rem;
+    }
+
+    .login-options a {
+        font-size: 1.7rem;
+    }
+}
+
+@media (min-width: 1000px) {
+    #login-container-content {
+        height: 780px;
+    }
+
+    #logo {
+        margin-top: 4%;
+    }
+    
+    #logo h1{
+        font-size: 4.8rem;
+    }
+    
+    #logo p{
+        font-weight: 300;
+        font-size: 2.8rem;
+    }
+
+    #login-container-content form {
+        margin-bottom: 0.8%;
+        max-width: 30%;
+    }
+
+    .input-block h2 {
+        font-size: 2.6rem;
+        text-align: center;
+        margin: 0.4rem;
+    }
+    
+    .input-block h3 {
+        font-size: 2.2rem;
+        font-weight: 300;
+        margin-bottom: 0.4rem;
+    }
+
+    .input-block .login-input {
+        font-size: 2rem;
+    }
+
+    .login-options a {
+        font-size: 1.9rem;
+    }
+}
+
+@media (min-width: 1920px) {
+    #login-container-content {
+        height: 1000px;
+    }
+
+    #logo {
+        margin-top: 3%;
+    }
+    
+    #logo h1{
+        font-size: 8.2rem;
+        font-weight: 700;
+    }
+    
+    #logo p{
+        font-weight: 300;
+        font-size: 5.2rem;
+    }
+
+    #login-container-content form {
+        margin-bottom: 0.4%;
+        max-width: 27%;
+    }
+
+    .input-block h2 {
+        font-size: 2.8rem;
+        text-align: center;
+        margin: 0.4rem;
+    }
+    
+    .input-block h3 {
+        font-size: 2.4rem;
+        font-weight: 300;
+        margin-bottom: 0.4rem;
+    }
+
+    .input-block .login-input {
+        font-size: 2rem;
+    }
+
+    .login-options a {
+        font-size: 2.2rem;
+    }
+}

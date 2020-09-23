@@ -2,23 +2,27 @@
 
 # Summary
   * [Screenshots](#%EF%B8%8F-screenshots)
+    * [2560x1080](#2560-x-1080)
+    * [1920x1080](#1920-x-1080)
+    * [Mobile](#mobile)
   * [Author](#-author)
 
 ## 🖼️ Screenshots
 
 <p align="center">
+
+  <h2>2560 X 1080</h2>
   <a href="https://github.com/Gabao-Farias/Landing-Pages/blob/master/Spartan-Gym/screenshots/2560x1080.png">
-    <h2>2560 X 1080</h2>
     <img style="margin-bottom: 10px" src="./screenshots/2560x1080.png" width=100% />
   </a>
 
+  <h2>1920 X 1080</h2>
   <a href="https://github.com/Gabao-Farias/Landing-Pages/blob/master/Spartan-Gym/screenshots/1920x1080.png">
-    <h2>1920 X 1080</h2>
     <img style="margin-bottom: 10px"src="./screenshots/1920x1080.png" width=100% />
   </a>
-    
+
+  <h2>Mobile</h2>
   <a href="https://github.com/Gabao-Farias/Landing-Pages/blob/master/Spartan-Gym/screenshots/mobile.jpg">
-    <h2>Mobile</h2>
     <img src="./screenshots/mobile.jpg" width=50% />
   </a>
 </p>

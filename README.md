@@ -6,5 +6,5 @@
     </a>
 </p>
 
-<h3 align="center">The ideia of this repo is to study front-end by building multiple ideas of landing pages with different purposes and using React. Later, each one of them can be raised into a fullstack project.
+<h3 align="center">The ideia of this repo is to study front-end by building multiple ideas of landing pages with different themes and using React. Later, each one of them can be raised into a fullstack project.
 </h3>

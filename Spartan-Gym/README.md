@@ -2,7 +2,7 @@
 
 # Summary
   * [Screenshots](#%EF%B8%8F-screenshots)
-  * [Author](👨‍💻-author)
+  * [Author](#-author)
 
 ## 🖼️ Screenshots
 

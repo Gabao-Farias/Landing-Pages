@@ -29,7 +29,7 @@
   <a href="https://github.com/Gabao-Farias">
     <img style="border-radius: 15%" width=100 src="https://avatars1.githubusercontent.com/u/61251953?s=460&u=0ab0136d89a2577f4a73f1848bc1f849634d99cd&v=4"/>
   </a>
-  <h2>Gabão</h2>
+  <h3>Gabão</h3>
 </p>
 
 <a href="https://www.linkedin.com/in/gabriel-taborda-farias-26b9b8160/">

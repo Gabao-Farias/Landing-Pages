@@ -11,8 +11,8 @@
 
 # 🗺️ Summary
 
-  * [List of projects]()
-  * [Contributing]()
+  * [List of projects](#-list-of-projects)
+  * [Contributing](#-contributing)
 
 ## 📝 List of Projects
 

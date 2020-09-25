@@ -8,3 +8,18 @@
 
 <h3 align="center">The ideia of this repo is to study front-end by building multiple ideas of landing pages with different themes, layouts and using React. Later, each one of them can be raised into a fullstack project.
 </h3>
+
+# 🗺️ Summary
+
+  * [List of projects]()
+  * [Contributing]()
+
+## 📝 List of Projects
+
+  - [Spartan Gym](https://github.com/Gabao-Farias/Landing-Pages/tree/master/Spartan-Gym)
+
+## 🙌 Contributing
+
+That's pretty simple, first you'll need to have a fork from this project and then you can update it by creating a pull request, describing the main theme and idea from it.
+
+Don't forget the docs, the more described your documentation, the better will be the view of the project.
